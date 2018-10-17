@@ -1,2 +1,1 @@
-Sample Springboot application to test
-Java application
+Sample Springboot application to build
